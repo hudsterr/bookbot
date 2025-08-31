@@ -1,2 +1,2 @@
 # bookbot
-A bookbot I worked on using Python through the Windows Subshell for Linux as a beginner project
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
